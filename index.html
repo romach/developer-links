@@ -1,11 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="application">
 <head>
     <title>Developer links</title>
     <meta charset="utf-8">
     <meta name="keywords" content="links, articles, books, tutorials">
     <meta name="description" content="Site for sharing useful links to resources for developers">
     <link href="css/main.css" rel="stylesheet">
+    <script src="js/vendor/angular.min.js"></script>
+    <script src="js/app.js"></script>
 </head>
 <body>
 <div class="header">
@@ -19,22 +21,12 @@
         </div>
     </div>
 </div>
-<div class="articles">
+<div class="articles" ng-controller="ArticlesController as articlesController">
     <div class="content">
-        <div class="articles-item">
-            <div class="title">SQLBolt</div>
-            <div class="link"><a href="https://sqlbolt.com">https://sqlbolt.com</a></div>
-            <div class="description">Interactive lessons to learn SQL in browser.</div>
-        </div>
-        <div class="articles-item">
-            <div class="title">RegexOne</div>
-            <div class="link"><a href="https://regexone.com/">https://regexone.com/</a></div>
-            <div class="description">Interactive lessons and exercises to help you learn regular expressions.</div>
-        </div>
-        <div class="articles-item">
-            <div class="title">Iconfinder</div>
-            <div class="link"><a href="https://www.iconfinder.com/">https://www.iconfinder.com/</a></div>
-            <div class="description">Collection of high-quality icons.</div>
+        <div class="articles-item" ng-repeat="article in articlesController.articles">
+            <div class="title">{{article.title}}</div>
+            <div class="link"><a href={{article.link}}>{{article.link}}</a></div>
+            <div class="description">{{article.description}}</div>
         </div>
     </div>
 </div>

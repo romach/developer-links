@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    background-color: #e9e9e9;
+}
+
+.header,
+.footer {
+    height: 100px;
+}
+
+.logo {
+    padding-top: 25px;
+    float: left;
+}
+
+.logo-title {
+    margin-left: 25px;
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+
+    font-size: 31px;
+    line-height: 100px;
+    float: left;
+}
+
+.logo-title a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu {
+    float: right;
+    line-height: 100px;
+}
+
+.menu-item a {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 19px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    width: 1200px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.articles-item {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 15px;
+    background-color: #efefef;
+    border-bottom: 1px solid #dedede;
+}
+
+.articles-item .title {
+    font-size: 25px;
+    color: #004d91;
+}
+
+.articles-item .link a {
+    font-size: 15px;
+    color: #00750b;
+}
+
+.articles-item .description {
+    font-size: 20px;
+}
+
+.header,
+.footer {
+    background-color: #004d91;
+}
+
+.about {
+    padding-top: 15px;
+}
+
+.about .title {
+    color: white;
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    font-size: 19px;
+}
+
+.about .description {
+    color: white;
+    font-size: 13px;
+}

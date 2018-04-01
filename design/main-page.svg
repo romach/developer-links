@@ -22,17 +22,17 @@
      pagecolor="#6c6c6c"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="930.19464"
-     inkscape:cy="4602.6304"
+     inkscape:cx="491.22042"
+     inkscape:cy="5061.8256"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
      showborder="true"
      inkscape:showpageshadow="false"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
@@ -52,7 +52,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="true">
     <inkscape:grid
        type="xygrid"
        id="grid9380"
@@ -491,21 +492,24 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot898"
-       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(21.455844,-0.51471865)"><flowRegion
          id="flowRegion900"
-         style="font-size:26.66666603px"><rect
+         style="font-size:20px;line-height:125%"><rect
            id="rect902"
            width="104.00002"
            height="31.615223"
            x="1445.0901"
            y="35"
-           style="font-size:26.66666603px" /></flowRegion><flowPara
+           style="font-size:20px;line-height:125%" /></flowRegion><flowPara
          id="flowPara904"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#ffffff;fill-opacity:1">HOME</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#ffffff;fill-opacity:1">HOME</flowPara></flowRoot>    <g
        id="g912"
        transform="matrix(0.26041667,0,0,0.26041667,358.33333,-16.70372)"
-       style="fill:#ffffff;fill-opacity:1">
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/romach/logo.png">
       <path
          id="path906"
          d="M 256.5,208 H 256 v 0 c 0.2,0 0.3,0 0.5,0 z"
@@ -536,7 +540,7 @@
            y="35"
            style="font-size:33.33333206px" /></flowRegion><flowPara
          id="flowPara904-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#ffffff;fill-opacity:1">Developer links</flowPara></flowRoot>    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:100%;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#ffffff;fill-opacity:1">Developer links</flowPara></flowRoot>    <rect
        style="opacity:1;fill:#e9e9e9;fill-opacity:1;stroke:none;stroke-width:7.16658878;stroke-opacity:0"
        id="rect955"
        width="1919.996"
@@ -563,60 +567,57 @@
            height="43.840622"
            x="382.54477"
            y="171.87489" /></flowRegion><flowPara
-         id="flowPara971">ddd</flowPara></flowRoot>    <g
-       id="g5356">
-      <rect
-         ry="0"
-         y="115"
-         x="375.09015"
-         height="95.023811"
-         width="1169.9999"
-         id="rect4677"
-         style="opacity:1;fill:#efefef;fill-opacity:1;stroke:none;stroke-width:0.16904457;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
-      <text
-         transform="scale(0.98998424,1.0101171)"
-         id="text975"
-         y="149.68886"
+         id="flowPara971">ddd</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#efefef;fill-opacity:1;stroke:none;stroke-width:0.16904457;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect4677"
+       width="1169.9999"
+       height="95.023811"
+       x="375.09015"
+       y="115"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40.40468216px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#004d91;fill-opacity:1;stroke:none;stroke-width:1.01011705px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="392.38324"
+       y="149.68886"
+       id="text975"
+       transform="scale(0.98998424,1.0101171)"><tspan
+         sodipodi:role="line"
+         id="tspan973"
          x="392.38324"
-         style="font-style:normal;font-weight:normal;font-size:40.40468216px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#004d91;fill-opacity:1;stroke:none;stroke-width:1.01011705px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.93645477px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#004d91;fill-opacity:1;stroke-width:1.01011705px"
-           y="149.68886"
-           x="392.38324"
-           id="tspan973"
-           sodipodi:role="line">SQLBolt</tspan></text>
-      <text
-         transform="scale(0.98998424,1.0101171)"
-         id="text979"
-         y="191.59343"
+         y="149.68886"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.93645477px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#004d91;fill-opacity:1;stroke-width:1.01011705px">SQLBolt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.20234108px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.01011705px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="391.96484"
+       y="191.59343"
+       id="text979"
+       transform="scale(0.98998424,1.0101171)"><tspan
+         sodipodi:role="line"
+         id="tspan977"
          x="391.96484"
-         style="font-style:normal;font-weight:normal;font-size:20.20234108px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.01011705px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:1.01011705px"
-           y="191.59343"
-           x="391.96484"
-           id="tspan977"
-           sodipodi:role="line">Interactive lessons to learn SQL in browser</tspan></text>
-      <text
-         transform="scale(0.98998424,1.0101171)"
-         id="text983"
-         y="169.41254"
+         y="191.59343"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:1.01011705px">Interactive lessons to learn SQL in browser</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40.40468216px;line-height:125%;font-family:sans-serif;text-decoration: underline;text-decoration-line: underline;letter-spacing:0px;word-spacing:0px;fill:#00750b;fill-opacity:1;stroke:none;stroke-width:1.01011705px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="392.49097"
+       y="169.41254"
+       id="text983"
+       transform="scale(0.98998424,1.0101171)"><tspan
+         sodipodi:role="line"
+         id="tspan981"
          x="392.49097"
-         style="font-style:normal;font-weight:normal;font-size:40.40468216px;line-height:125%;font-family:sans-serif;text-decoration: underline;text-decoration-line: underline;letter-spacing:0px;word-spacing:0px;fill:#00750b;fill-opacity:1;stroke:none;stroke-width:1.01011705px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:16.16187286px;fill:#00750b;fill-opacity:1;stroke-width:1.01011705px"
-           y="169.41254"
-           x="392.49097"
-           id="tspan981"
-           sodipodi:role="line">https://sqlbolt.com</tspan></text>
-      <rect
-         y="208.87096"
-         x="375.09015"
-         height="1.0203365"
-         width="1170"
-         id="rect5305"
-         style="opacity:1;fill:#dedede;fill-opacity:1;stroke:none;stroke-width:4.12967253;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
-    </g>
+         y="169.41254"
+         style="font-size:16.16187286px;fill:#00750b;fill-opacity:1;stroke-width:1.01011705px">https://sqlbolt.com</tspan></text>
+    <rect
+       style="opacity:1;fill:#dedede;fill-opacity:1;stroke:none;stroke-width:4.12967253;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect5305"
+       width="1170"
+       height="1.0203365"
+       x="375.09015"
+       y="208.87096" />
     <g
        transform="translate(1.0742224e-6,109.9992)"
        style="display:inline"
@@ -686,4 +687,8 @@
          y="702.80072"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1;stroke-width:1.01011705px">Site for  sharing useful links to resources for developers.</tspan></text>
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="logo" />
 </svg>
